@@ -24,12 +24,12 @@ Which is to say, it's really minor.
 
 Should be compatible with about any mod.
 
-Don't use together with [Fortify Health Fix](https://www.nexusmods.com/morrowind/mods/56523) by ownlyme. This mod is meant as a successor to it:
+Don't use together with [Fortify Health Fix](https://www.nexusmods.com/morrowind/mods/56523) by ownlyme. This mod is meant as a successor to it, since:
 
 - Everything from Fortify Health Fix is already included here
-- Performs way better
-- Covers Magicka and Fatigue
-- Can affect non-player actors
+- It performs way better
+- It covers Magicka and Fatigue
+- It can affect non-player actors
 
 ## Credits
 
